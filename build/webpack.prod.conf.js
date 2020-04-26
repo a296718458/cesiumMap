@@ -1,4 +1,5 @@
 'use strict'
+// 生产环境下的webpack配置
 const path = require('path')
 const utils = require('./utils')
 const webpack = require('webpack')
